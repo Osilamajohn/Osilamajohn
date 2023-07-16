@@ -26,7 +26,7 @@
   
   Here are some of the key projects I've worked on:
   
-  - **[EDA on podcasts review dataset](https://github.com/Osilamajohn/Podcast-Reviews-Dataset-EDA/blob/main/225.ipynb)**
+  - **[EDA on SQLite podcasts review dataset](https://github.com/Osilamajohn/Podcast-Reviews-Dataset-EDA/blob/main/225.ipynb)**
   - **Project 2:** Brief description of the project and its impact on the business or domain.
   - **Project 3:** Brief description of the project and its impact on the business or domain.
   
