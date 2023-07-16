@@ -26,19 +26,7 @@
   
   Here are some of the key projects I've worked on:
   
-  - **EDA on podcasts review dataset:**
-  - **Brief description of EDA**
-  -The primary objective of this EDA is to gain insights into the Podcast Reviews Dataset and extract meaningful information for Aftermath Entertainment Inc. The analysis employed machine learning, various statistical techniques, and visualizations to achieve the following goals:
-    Explore the distribution of reviews within the dataset.
-    Analyze ratings expressed in the reviews.
-    Identify popular podcast categories and their distribution.
-    Investigate relationships between variables.
-    Perform a statistical inference
-    Handle missing values, address duplicate entries, and perform data cleansing operations to ensure dataset integrity and quality.
-    Make dashboard available with charts in Google data studio
-
-**Impact on the business**
-increased listeners and reviewers
+  - **[EDA on podcasts review dataset](https://github.com/Osilamajohn/Podcast-Reviews-Dataset-EDA/blob/main/225.ipynb)**
   - **Project 2:** Brief description of the project and its impact on the business or domain.
   - **Project 3:** Brief description of the project and its impact on the business or domain.
   
