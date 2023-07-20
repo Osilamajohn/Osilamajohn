@@ -26,8 +26,8 @@
   
   Here are some of the key projects I've worked on:
   
-  - **[Exploratory Data Analysis on SQLite podcasts review dataset](https://github.com/Osilamajohn/Podcast-Reviews-Dataset-EDA/blob/main/225.ipynb)**
-  - **Project 2:** Brief description of the project and its impact on the business or domain.
+  - **[Exploratory Data Analysis on podcasts review SQLite dataset](https://github.com/Osilamajohn/Podcast-Reviews-Dataset-EDA/blob/main/225.ipynb)**
+  - **[Exploratory Data Analysis on Mental Health in the Tech Industry SQLite dataset](https://github.com/Osilamajohn/Exploratory-Data-Analysis-On-Mental-Health-in-the-Tech-Industry/blob/main/215.ipynb)**
   - **Project 3:** Brief description of the project and its impact on the business or domain.
   
   For more details, please refer to the project repositories below.
