@@ -28,7 +28,7 @@
   
   - **[Exploratory Data Analysis on podcasts review dataset](https://github.com/Osilamajohn/Podcast-Reviews-Dataset-EDA/blob/main/225.ipynb)**
   - **[Exploratory Data Analysis on Mental Health in the Tech Industry dataset](https://github.com/Osilamajohn/Exploratory-Data-Analysis-On-Mental-Health-in-the-Tech-Industry/blob/main/215.ipynb)**
-  - **Project 3:** Brief description of the project and its impact on the business or domain.
+  - **[Exploratory-Data-Analysis-on-the-Fatal-Police-Shootings-2015-Present-Dataset](https://github.com/Osilamajohn/Exploratory-Data-Analysis-on-the-Fatal-Police-Shootings-2015-Present-Dataset/blob/main/141.ipynb)**
   
   For more details, please refer to the project repositories below.
   
@@ -38,7 +38,6 @@
   
   - Email: osilamajohn@yahoo.com
   - LinkedIn: [John Osilama](https://www.linkedin.com/in/johnosilama)
-  - Portfolio: [Your Portfolio](https://your-portfolio-url.com)
   
   Feel free to reach out if you would like to discuss potential job opportunities or have any questions. Looking forward to connecting with you!
   
