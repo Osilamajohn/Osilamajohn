@@ -42,5 +42,7 @@
   Feel free to reach out if you would like to discuss potential job opportunities or have any questions. Looking forward to connecting with you!
   
   Thank you for visiting my GitHub profile. Have a great day! 🌟
+ 
+  
   ![Visitor Count](https://profile-counter.glitch.me/{osilamajohn}/count.svg)
 </div>
