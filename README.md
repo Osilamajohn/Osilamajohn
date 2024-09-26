@@ -7,12 +7,12 @@
   
   ## Hello, world! 👋
   
-  I'm John Osilama Thomas, a passionate data scientist with expertise in statistical analysis, machine learning, and data visualization. I'm dedicated to leveraging data-driven insights to solve complex problems and drive business growth. Welcome to my GitHub profile, where you'll find a collection of my data science projects.
+  I'm John Osilama Thomas, I have expertise in statistical analysis, machine learning, and data visualization. I'm dedicated to leveraging data-driven insights to solve complex problems and drive business growth. Welcome to my GitHub profile, where you'll find a collection of my data science projects.
   
   ## 📚 Education
   
-  - PGD. in Data Science, Turing College, 2023
-  - B.Sc. in Pharmacy, Igbinedion University Okada, 2014
+  - Masters of Medicine. Tianjin Univerisity of Traditional Chinese Medicine, 2024
+  - Bachelor of Pharmacy. Igbinedion University Okada, 2014
   
   ## 🚀 Key Skills
   
