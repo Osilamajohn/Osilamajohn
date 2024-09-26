@@ -11,8 +11,8 @@
   
   ## 📚 Education
   
-  - Masters of Medicine. Tianjin Univerisity of Traditional Chinese Medicine, 2024
-  - Bachelor of Pharmacy. Igbinedion University Okada, 2014
+  - Master of Medicine, Tianjin Univerisity of Traditional Chinese Medicine, 2024.
+  - Bachelor of Pharmacy, Igbinedion University Okada, 2014.
   
   ## 🚀 Key Skills
   
