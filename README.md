@@ -1,4 +1,4 @@
-# John Osilama Thomas - Data Scientist 📊
+# John Osilama Thomas 📊
 
 <div style="background-color: #f6f8fa; padding: 20px;">
   <p align="center">
