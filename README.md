@@ -9,8 +9,8 @@
   </p>
   
   ## Hello, world! 👋
-  
-  I'm John Osilama Thomas, I have expertise in statistical analysis, machine learning, and data visualization. I'm dedicated to leveraging data-driven insights to solve complex problems and drive business growth. Welcome to my GitHub profile, where you'll find a collection of my data science projects.
+ 
+ I'm John Osilama Thomas, a Bioinformatics Developer. I leverage Python and R to analyze datasets, uncovering insights from complex data
   
   ## 📚 Education
   
