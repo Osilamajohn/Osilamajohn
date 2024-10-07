@@ -27,8 +27,9 @@
   
   ## 📈 Projects
   
-  Here are some of the key projects I've worked on:
-  
+  Here are some of the projects I've worked on:
+
+   - **[Differential Expression Analysis of GSE18520 Dataset](https://github.com/Osilamajohn/Differential-Expression-Analysis-of-GSE18520-Dataset/blob/main/GSE18520.ipynb)**
   - **[Exploratory Data Analysis on podcasts review dataset](https://github.com/Osilamajohn/Podcast-Reviews-Dataset-EDA/blob/main/225.ipynb)**
   - **[Exploratory Data Analysis on Mental Health in the Tech Industry dataset](https://github.com/Osilamajohn/Exploratory-Data-Analysis-On-Mental-Health-in-the-Tech-Industry/blob/main/215.ipynb)**
   - **[Exploratory Data Analysis on the Fatal Police Shootings 2015 Present Dataset](https://github.com/Osilamajohn/Exploratory-Data-Analysis-on-the-Fatal-Police-Shootings-2015-Present-Dataset/blob/main/141.ipynb)**
