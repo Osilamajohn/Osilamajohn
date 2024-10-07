@@ -3,8 +3,9 @@
 <div style="background-color: #f6f8fa; padding: 20px;">
   <p align="center">
 <a href="https://ibb.co/SXyQP3T">
-  <img src="https://i.ibb.co/SXyQP3T/github-header-image.png" alt="Profile Image" width="" height="">
+  <img src="https://i.ibb.co/wNgJRzH/github-header-image.png" alt="github-header-image" border="0">
 </a>
+
   </p>
   
   ## Hello, world! 👋
