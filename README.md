@@ -2,7 +2,7 @@
 
 <div style="background-color: #f6f8fa; padding: 20px;">
   <p align="center">
-    <img src="https://i.imgur.com/KTrmDu1.png" alt="Profile Image" width="" height="">
+    <img src="[https://i.imgur.com](https://ibb.co/tsYnHnw)" alt="Profile Image" width="" height="">
   </p>
   
   ## Hello, world! 👋
