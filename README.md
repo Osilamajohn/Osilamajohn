@@ -2,7 +2,9 @@
 
 <div style="background-color: #f6f8fa; padding: 20px;">
   <p align="center">
-    <img src="[https://i.imgur.com](https://ibb.co/tsYnHnw)" alt="Profile Image" width="" height="">
+<a href="https://ibb.co/tsYnHnw">
+  <img src="https://i.ibb.co/Z8cvfvR/github-header-image.png" alt="Profile Image" width="" height="">
+</a>
   </p>
   
   ## Hello, world! 👋
