@@ -22,7 +22,7 @@
   - **Machine Learning:** Proficient in developing and deploying machine learning models using scikit-learn, TensorFlow, and Keras.
   - **Statistical Analysis:** Experienced in hypothesis testing, regression analysis, and experimental design to derive meaningful insights.
   - **Data Visualization:** Skilled in creating visually appealing and interactive visualizations using Matplotlib, Seaborn, and Tableau.
-  - **Python Programming:** Proficient in Python for data manipulation, analysis, and model development.
+  - **Python & R Programming:** Proficient in Python and R for data manipulation, statistical analysis, and model development..
   - **Big Data Technologies:** Familiar with working with large datasets using Apache Spark and Hadoop ecosystem.
   
   ## 📈 Projects
