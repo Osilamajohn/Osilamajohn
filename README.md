@@ -10,7 +10,7 @@
   
   ## Hello, world! 👋
  
- I'm John Osilama Thomas, a Bioinformatics programmer. I leverage Python and R to analyze datasets, uncovering insights from complex data
+ I'm John Osilama Thomas, a bioinformatics programmer. I leverage Python and R to analyze datasets, uncovering insights from complex data
   
   ## 📚 Education
   
